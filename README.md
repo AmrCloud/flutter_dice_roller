@@ -16,7 +16,7 @@ Through this project, I gained understanding in:
 
 ## 📸 Screenshots
 
-![App Screenshot 1][[(screenshots/screenshot1.png)](https://github.com/AmrCloud/flutter_dice_roller/blob/main/dice_roller_screenshots/Screenshots/1.jpg?raw=true) ](https://github.com/AmrCloud/flutter_dice_roller/blob/280ddbe435fab1beef617467c44566c68101772c/dice_roller_screenshots/Screenshots/3.jpg)
+![App Screenshot 1](https://github.com/AmrCloud/flutter_dice_roller/blob/280ddbe435fab1beef617467c44566c68101772c/dice_roller_screenshots/Screenshots/3.jpg)
 ![App Screenshot 2][(screenshots/screenshot2.png)](https://github.com/AmrCloud/flutter_dice_roller/blob/main/dice_roller_screenshots/Screenshots/2.jpg?raw=true)
 ![App Screenshot 3][(screenshots/screenshot3.png)](https://github.com/AmrCloud/flutter_dice_roller/blob/main/dice_roller_screenshots/Screenshots/3.jpg?raw=true)
 
